@@ -1,0 +1,35 @@
+div {
+  font-family: Arial, sans-serif;
+  background-color: #fff0f5;
+  padding: 30px;
+  width: 500px;
+  margin: 10px auto;
+  border: 5px solid ;
+border-color: #ec73af;
+font-size: 20px
+
+}
+
+fluo {
+  background-color: Yellow;
+  display: inline;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  width: 450px;
+  margin: 5px auto;
+  text-align: center;
+  font-size: 45px
+
+}
+
+div2 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px;
+  width: 300px;
+  margin: 10px auto;
+  text-align: center;
+
+}
